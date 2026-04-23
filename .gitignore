@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+*.pkl
+models/
+
+# databases
+*.db
+
+# datasets
+MINDsmall_dev/
+MINDsmall_train/
+
+# Jupyter
+.ipynb_checkpoints/
