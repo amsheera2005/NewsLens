@@ -42,8 +42,8 @@ New User	0.15	0.25	0.10	0.30	0.20
 Active User	0.25	0.30	0.20	0.15	0.10
 Mature User	0.35	0.25	0.25	0.10	0.05
 
-👉 Early stage → exploration + mood-driven recommendations
-👉 Later stage → personalized learning-based ranking
+👉 Early stage → more exploration + mood-based recommendations
+👉 Later stage → more personalization + learning-based ranking
 
 🧠 Recommendation Engine
 1. Reinforcement Learning (Thompson Sampling)
